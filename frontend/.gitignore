@@ -22,3 +22,37 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+---------------------------------------------------
+|              Automation post on media                |
+---------------------------------------------------
+| Welcome to   Automation post on media                         |
+| [Sign In] [Sign Up]                             |
+---------------------------------------------------
+| [User Profile Pic] [Home] [My Profile] [Help]  |
+| [Logout]                                         |
+---------------------------------------------------
+| Select Your Role:                                |
+| (Admin) (Tester) (Developer) (Agent) (Manager)  |
+| [Confirm Role]                                   |
+---------------------------------------------------
+| Connect Your Accounts:                           |
+| [Login with Facebook] [Login with Instagram]    |
+---------------------------------------------------
+| Upload Your Post:                                |
+| [Choose File] [Image Preview]                   |
+| Title: [_____________________]                   |
+| Description: [_____________________]             |
+| Target Group:                                    |
+| [FB Group 1] [FB Group 2] [IG Account 1]        |
+| [Post Now] [Schedule Post]                       |
+---------------------------------------------------
+| Notifications:                                   |
+| - Post Successful!                               |
+| - Error: Please select an image!                |
+---------------------------------------------------
+| Recent Posts:                                    |
+| - Post Title (FB) - Date/Time - Status          |
+| - Post Title (IG) - Date/Time - Status          |
+---------------------------------------------------
